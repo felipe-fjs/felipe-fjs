@@ -14,7 +14,7 @@ Sou desenvolvedor em formação, apaixonado por tecnologia e com foco em **Pytho
 ## 🔭 Projetos em destaque
 | Projeto | Descrição curta | Stack |
 |---|---:|---:|
-
+| [**bot-telegram-agendamento**](https://github.com/felipe-fjs/chatbot_barbearia) | Bot para agendamento em barbearia — fluxo completo com seleção de dias/horários. | Python, Telegram Bot API (TeleBot), MySQL | 
 
 ---
 
