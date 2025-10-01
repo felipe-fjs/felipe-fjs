@@ -2,7 +2,7 @@
 
 
 ## 🧑‍💻 Sobre
-Sou desenvolvedor em formação, apaixonado por tecnologia e com foco em **Python**. Atualmente como **freelancer**, criando soluções que otimizam processos e geram resultados reais. Estudante de Ciência da Computação (Estácio), gosto de transformar ideias em aplicações úteis — especialmente websites/appwes e chatbots.
+Sou desenvolvedor em formação, apaixonado por tecnologia e com foco em **Python**. Atualmente como **freelancer**, criando soluções que otimizam processos e geram resultados reais. Estudante de Ciência da Computação (Estácio), gosto de transformar ideias em aplicações úteis — especialmente websites/appwebs e chatbots.
 
 - 💡 Interesse: automação, chatbots, backend e integração de sistemas  
 - 🛠️ Tecnologias: **Python**, Flask, MySQL, noções de **Django**, aprendizado em **Java (backend)**, projetos com **Flutter**  
