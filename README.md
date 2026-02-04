@@ -19,11 +19,11 @@ Sou desenvolvedor em formação, apaixonado por tecnologia e com foco em Desenvo
 ---
 
 ## 🧰 Tech & Ferramentas
-- Linguagens: **Python**, Java (aprendizado)
-- Web & Backend: **Flask**, (Django — básico)  
-- DB: **MySQL**  
+- Linguagens: **Python**, Java e Kotlin
+- Web & Backend: **Flask**, Spring Boot/Security 
+- DB: **MySQL**
 - DevOps/Básicos: Git, GitHub  
-- Outras: APIs para Telegram/WhatsApp, integrações REST
+- Outras: APIs para Telegram, integrações REST
 
 ---
 
