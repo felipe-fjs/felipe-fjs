@@ -20,10 +20,8 @@ Sou desenvolvedor em formação, com foco em Desenvolvimento Back-end. Estudante
 
 ## 🧰 Tech & Ferramentas
 - Linguagens: Java e Python 
-- Frameworks: Flask, Angular, Spring Boot/Security 
+- Frameworks: Spring Boot/Security, Angular, Flask
 - DB: MySQL
-- DevOps/Básicos: Git, GitHub  
-- Outras: APIs para Telegram, integrações REST
 
 ---
 
