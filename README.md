@@ -14,7 +14,9 @@ Sou desenvolvedor em formação, com foco em Desenvolvimento Back-end. Estudante
 ## 🔭 Projetos em destaque
 | Projeto | Descrição curta | Stack |
 |---|---:|---:|
+| [**Gerenciador-de-Coroinhas (Back-end)**](https://github.com/felipe-fjs/Gerenciador-de-Coroinhas) | Sistema back-end para gerenciamento de coroinhas da paróquia | Java, Spring (boot, security, jpa), JWT | 
 | [**bot-telegram-agendamento**](https://github.com/felipe-fjs/chatbot_barbearia) | Bot para agendamento em barbearia — fluxo completo com seleção de dias/horários. | Python, Telegram Bot API (TeleBot), MySQL | 
+
 
 ---
 
