@@ -2,11 +2,11 @@
 
 
 ## 🧑‍💻 Sobre
-Sou desenvolvedor em formação, apaixonado por tecnologia e com foco em Desenvolvimento Back-end. Estudante de Ciência da Computação (Estácio), gosto de transformar ideias em aplicações úteis — especialmente WebApp.
+Sou desenvolvedor em formação, com foco em Desenvolvimento Back-end. Estudante de Ciência da Computação (Estácio), gosto de transformar ideias em aplicações úteis — especialmente Sistemas web.
 
-- 💡 Interesse: chatbots, AppWeb e Mobile
-- 🛠️ Tecnologias: **Python**, Flask, MySQL, Java e Kotlin
-- 🤖 Projetos: chatbots para Telegram, sistemas web e (futuramente) mobile
+- 💡 Interesse: Sistemas Web e (futuramente) Mobile
+- 🛠️ Tecnologias: Java (spring), Python (Flask), Angular
+- 🤖 Projetos: Sistemas de gerenciamento (Appweb) e (futuramente) aplicações mobile
 - 🎯 Busco: aprender constantemente, aplicar boas práticas
 
 ---
@@ -19,9 +19,9 @@ Sou desenvolvedor em formação, apaixonado por tecnologia e com foco em Desenvo
 ---
 
 ## 🧰 Tech & Ferramentas
-- Linguagens: **Python**, Java e Kotlin
-- Web & Backend: **Flask**, Spring Boot/Security 
-- DB: **MySQL**
+- Linguagens: Java e Python 
+- Frameworks: Flask, Angular, Spring Boot/Security 
+- DB: MySQL
 - DevOps/Básicos: Git, GitHub  
 - Outras: APIs para Telegram, integrações REST
 
