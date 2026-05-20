@@ -2,12 +2,11 @@
 
 
 ## 🧑‍💻 Sobre
-Sou desenvolvedor em formação, com foco em Desenvolvimento Back-end. Estudante de Ciência da Computação (Estácio), gosto de transformar ideias em aplicações úteis — especialmente Sistemas web.
+Sou desenvolvedor em formação, com foco em Desenvolvimento Back-end. Estudante de Ciência da Computação (Estácio).
 
 - 💡 Interesse: Sistemas Web e (futuramente) Mobile
-- 🛠️ Tecnologias: Java (spring), Python (Flask), Angular
-- 🤖 Projetos: Sistemas de gerenciamento (Appweb) e (futuramente) aplicações mobile
-- 🎯 Busco: aprender constantemente, aplicar boas práticas
+- 🛠️ Tecnologias: Java (spring boot), Python (Flask | FastAPI), Angular
+- 🎯 Busco me aprofundar constantemente, aplicando boas práticas de desenvolvimento 
 
 ---
 
@@ -22,7 +21,7 @@ Sou desenvolvedor em formação, com foco em Desenvolvimento Back-end. Estudante
 
 ## 🧰 Tech & Ferramentas
 - Linguagens: Java e Python 
-- Frameworks: Spring Boot/Security, Angular, Flask
+- Frameworks: Spring Boot/Security, Angular, Flask, FastAPI
 - DB: MySQL
 
 ---
