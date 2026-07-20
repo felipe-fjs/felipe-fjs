@@ -2,9 +2,9 @@
 
 
 ## 🧑‍💻 Sobre
-Sou desenvolvedor em formação, com foco em Desenvolvimento Back-end. Estudante de Ciência da Computação (Estácio).
+Desenvolvedor de sistemas com foco em Desenvolvimento Back-end. Estudante de Ciência da Computação (Estácio).
 
-- 💡 Interesse: Sistemas Web e (futuramente) Mobile
+- 💡 Interesse: Sistemas Web
 - 🛠️ Tecnologias: Java (spring boot), Python (FastAPI), Angular
 - 🎯 Busco me aprofundar constantemente, aplicando boas práticas de desenvolvimento 
 
@@ -14,14 +14,13 @@ Sou desenvolvedor em formação, com foco em Desenvolvimento Back-end. Estudante
 | Projeto | Descrição curta | Stack |
 |---|---:|---:|
 | [**Gerenciador-de-Coroinhas (Back-end)**](https://github.com/felipe-fjs/Gerenciador-de-Coroinhas) | Sistema back-end para gerenciamento de coroinhas da paróquia | Java, Spring (boot, security, jpa), JWT | 
-| [**bot-telegram-agendamento**](https://github.com/felipe-fjs/chatbot_barbearia) | Bot para agendamento em barbearia — fluxo completo com seleção de dias/horários. | Python, Telegram Bot API (TeleBot), MySQL | 
-
+| [**Gerenciador de Agendamentos**](https://github.com/felipe-fjs/agendamentos) | API para agendamentos em geral | Python, FastAPI, MySQL | 
 
 ---
 
 ## 🧰 Tech & Ferramentas
 - Linguagens: Java e Python 
-- Frameworks: Spring Boot/Security, Angular, FastAPI
+- Frameworks: Spring Boot/Security, FastAPI, Angular 
 - DB: MySQL
 
 ---
