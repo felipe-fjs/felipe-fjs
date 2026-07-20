@@ -39,5 +39,6 @@ Sou desenvolvedor em formação, com foco em Desenvolvimento Back-end. Estudante
 
 ## 📈 GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipe-fjs&theme=algolia )](https://github.com/felipe-fjs/github-readme-stats)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=felipe-fjs&theme=dark)
 
 ---
